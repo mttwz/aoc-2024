@@ -12,7 +12,6 @@ public class InputFetcher {
     public static List<Integer> list1 = new ArrayList<>();
     public static List<Integer> list2 = new ArrayList<>();
 
-
     public static void readLines(){
 
         try (BufferedReader br = new BufferedReader(new InputStreamReader(
